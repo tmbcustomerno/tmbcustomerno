@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vengateshwaran
-- 👀 I’m interested in Browing
+- 👀 I’m interested in Browsing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me Nothing
 - 😄 Pronouns: ...
